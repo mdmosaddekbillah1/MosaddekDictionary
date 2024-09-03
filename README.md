@@ -1,0 +1,2 @@
+# MosaddekDictionary
+Turkish Bangla Dictionary
